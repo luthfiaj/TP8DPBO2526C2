@@ -52,7 +52,7 @@ Aplikasi web **Akademik MVC** untuk mengelola data **Dosen**, **Mata Kuliah**, d
 │       ├── bootstrap.bundle.min.js
 │       ├── bootstrap.min.js
 │       └── jquery.min.js
-├── database.sql                  # Struktur tabel + data dummy (tp_mvc25)
+├── tp_mvc.sql                  # Struktur tabel + data dummy (tp_mvc25)
 ├── Dokumentasi/                  # Screenshot & screen record hasil pengujian
 └── README.md
 ```
